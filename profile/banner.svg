@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="180" fill="#1a1a12"/>
+
+  <!-- Fingerprint icon on left -->
+  <g transform="translate(80, 15) scale(1.5)">
+    <path d="M25 80 Q25 25 50 25 Q75 25 75 50" fill="none" stroke="#7c9a3e" stroke-width="4" stroke-linecap="round"/>
+    <path d="M33 75 Q33 35 50 35 Q67 35 67 52" fill="none" stroke="#7c9a3e" stroke-width="4" stroke-linecap="round"/>
+    <path d="M41 70 Q41 45 50 45 Q59 45 59 55" fill="none" stroke="#c9a227" stroke-width="4" stroke-linecap="round"/>
+    <path d="M50 65 L50 53" fill="none" stroke="#c9a227" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Thurin.id text -->
+  <text x="260" y="95" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="56" font-weight="700" fill="#faf9f5">Thurin<tspan fill="#7c9a3e">.id</tspan></text>
+
+  <!-- Tagline -->
+  <text x="260" y="135" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="22" fill="#a8a598">Prove more. Reveal less.</text>
+</svg>
