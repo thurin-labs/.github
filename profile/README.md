@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thurinlabs/.github/main/profile/banner.svg" alt="Thurin" width="100%" />
+  <img src="https://raw.githubusercontent.com/thurin-labs/.github/main/profile/banner.svg" alt="Thurin" width="100%" />
 </p>
 
 ## Privacy-preserving proof of personhood
