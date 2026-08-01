@@ -18,5 +18,5 @@ Thurin builds open, decentralized identity infrastructure. On-chain identity cla
 - [X](https://x.com/thurinlabs)
 - [Farcaster](https://farcaster.xyz/thurinlabs.eth)
 - [LinkedIn](https://www.linkedin.com/company/thurin-labs/)
-- [Codeberg](https://codeberg.org/thurinlabs).
+- [Codeberg](https://codeberg.org/thurinlabs)
 
