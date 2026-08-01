@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/thurin-labs/.github/main/profile/banner.svg" alt="Thurin" width="100%" />
 </p>
 
-> **This is a mirror.** Our primary repos live on [Codeberg](https://codeberg.org/thurinlabs).
+> Our primary repos also live on [Codeberg](https://codeberg.org/thurinlabs).
 
 ## Prove more. Reveal less.
 
@@ -15,8 +15,7 @@ Thurin builds open, decentralized identity infrastructure. On-chain identity cla
 
 ### Links
 
-- [Codeberg](https://codeberg.org/thurinlabs) (primary)
-- [Website](https://thurin.id)
+- [Website](https://thurinlabs.id)
 - [Documentation](https://docs.thurin.id)
 - [X](https://x.com/thurinlabs)
 - [Farcaster](https://farcaster.xyz/thurinlabs.eth)
