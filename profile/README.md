@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thurin-labs/.github/main/profile/banner.svg" alt="Thurin" width="100%" />
+  <img src="https://raw.githubusercontent.com/thurinlabs/.github/main/profile/banner.svg" alt="Thurin" width="100%" />
 </p>
 
 ## Prove more. Reveal less.
@@ -8,8 +8,8 @@ Thurin builds open, decentralized identity infrastructure. On-chain identity cla
 
 ### Apps
 
-- **[Scry](https://scry.thurin.id)** — Explore and verify the Thurin identity graph
-- **[Signet](https://signet.thurin.id)** — Link your ETH address to your PGP key on-chain
+- **[Scry](https://thurin.id)** — Explore and verify the Thurin identity graph
+- **[Signet](https://thurin.id/signet)** — Link your ETH address to your PGP key on-chain
 
 ### Links
 
