@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/thurin-labs/.github/main/profile/banner.svg" alt="Thurin" width="100%" />
 </p>
 
-> Our primary repos also live on [Codeberg](https://codeberg.org/thurinlabs).
-
 ## Prove more. Reveal less.
 
 Thurin builds open, decentralized identity infrastructure. On-chain identity claims, public-key cryptography, and social proofs — no backends, no intermediaries, no data collection.
@@ -20,3 +18,5 @@ Thurin builds open, decentralized identity infrastructure. On-chain identity cla
 - [X](https://x.com/thurinlabs)
 - [Farcaster](https://farcaster.xyz/thurinlabs.eth)
 - [LinkedIn](https://www.linkedin.com/company/thurin-labs/)
+- [Codeberg](https://codeberg.org/thurinlabs).
+
