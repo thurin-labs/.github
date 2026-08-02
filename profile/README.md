@@ -11,6 +11,11 @@ Thurin builds open, decentralized identity infrastructure. On-chain identity cla
 - **[Scry](https://thurin.id)** — Explore and verify the Thurin identity graph
 - **[Signet](https://thurin.id/signet)** — Link your ETH address to your PGP key on-chain
 
+### Tools
+
+- **[mathom](https://mathom.thurinlabs.id)** — Air-gapped PGP key custody and signing, built from an old laptop
+- **[noir-audit-skill](https://github.com/thurinlabs/noir-audit-skill)** — A Claude Code skill for auditing Noir zero-knowledge circuits
+
 ### Links
 
 - [Website](https://thurinlabs.id)
